@@ -42,7 +42,7 @@ This fork introduces several major enhancements over the original project:
 
 ### Step 1: Clone this fork 
 ```
-   $ git clone <fork-url>
+   $ git clone https://github.com/sarabhan/RAG-based-AI-teaching-assistant.git
    $ cd RAG-based-AI-teaching-assistant
 ```
 ### Step 2: Install dependencies
@@ -55,9 +55,8 @@ pip install ollama
 ollama pull llama-3.2:1b
 ```
 ### Step 4: Setup MongoDB & Mongosh (for Windows)
-- Setup MongoDB using the attached .msi file: _mongodb-windows-x86_64-8.0.16-signed.msi_
-- Setup Mongosh using the attached .msi file: _mongosh-2.5.10-x64.msi_
-
+- Setup MongoDB using this official link: https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.2.2-signed.msi
+- Setup Mongosh using this official link: https://downloads.mongodb.com/compass/mongosh-2.5.10-x64.msi
 
 ### Step 5: Run main.py file
 ---
