@@ -71,7 +71,7 @@ ollama pull llama-3.2:1b
 - Temperature / max_tokens: Adjust in Ollama for deterministic or detailed outputs.
 
 
-### This repo is open for further collaborations, discussions, and issues!
+### This repo is open for further collaborations feature additions, discussions, and issues!
 Feel free to create your own issues or head to the discussions page!
 
 ## ⚠️ Note on This Fork
